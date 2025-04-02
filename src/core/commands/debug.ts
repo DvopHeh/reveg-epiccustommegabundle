@@ -17,7 +17,7 @@ export default () => <ApplicationCommand>{
         const info = getDebugInfo();
         const content = [
             "***💦Cumcord Debug Info💦***",
-            `> Cumcord: ${info.bunny.version} ($"CumCord 💦"}${info.bunny.loader.version})`,
+            `> Cumcord: ${info.bunny.version} (${"CumCord 💦"}${info.bunny.loader.version})`,
             `> Discord: ${info.discord.version} (${info.discord.build})`,
             `> React: ${info.react.version} (RN ${info.react.nativeVersion})`,
             `> Hermes: ${info.hermes.version} (bcv${info.hermes.bytecodeVersion})`,
