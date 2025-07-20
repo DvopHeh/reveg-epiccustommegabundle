@@ -1,3 +1,11 @@
+## [1.0.1](https://github.com/DvopHeh/reveg-epiccustommegabundle/compare/v1.0.0...v1.0.1) (2025-07-20)
+
+
+### Bug Fixes
+
+* **core/patches/wrapSafeAreaProvider:** remove broken patch ([dfb0367](https://github.com/DvopHeh/reveg-epiccustommegabundle/commit/dfb036740a3789f171f16c2aca6f8db2de602d79))
+* **metro/common:** polyfill `url` ([59ffa77](https://github.com/DvopHeh/reveg-epiccustommegabundle/commit/59ffa77a3aff59181d9dee169f91bda8e31c4400))
+
 ## [1.7.4](https://github.com/revenge-mod/revenge-bundle/compare/v1.7.3...v1.7.4) (2025-05-19)
 
 
