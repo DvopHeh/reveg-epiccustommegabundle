@@ -6,6 +6,87 @@
 * **core/patches/wrapSafeAreaProvider:** remove broken patch ([dfb0367](https://github.com/DvopHeh/reveg-epiccustommegabundle/commit/dfb036740a3789f171f16c2aca6f8db2de602d79))
 * **metro/common:** polyfill `url` ([59ffa77](https://github.com/DvopHeh/reveg-epiccustommegabundle/commit/59ffa77a3aff59181d9dee169f91bda8e31c4400))
 
+## [1.8.1](https://github.com/revenge-mod/revenge-bundle/compare/v1.8.0...v1.8.1) (2025-07-24)
+
+
+### Bug Fixes
+
+* **api/patcher:** assert delayCallback ([#196](https://github.com/revenge-mod/revenge-bundle/issues/196)) ([5bc8868](https://github.com/revenge-mod/revenge-bundle/commit/5bc886868def333812dfc2b8d3c90d51e7739852))
+* make React DevTools work again ([d659983](https://github.com/revenge-mod/revenge-bundle/commit/d6599831e6bf78afad77eb1b4e1f820f6a34139e))
+
+## [1.8.1-dev.2](https://github.com/revenge-mod/revenge-bundle/compare/v1.8.1-dev.1...v1.8.1-dev.2) (2025-07-24)
+
+
+### Bug Fixes
+
+* make React DevTools work again ([d659983](https://github.com/revenge-mod/revenge-bundle/commit/d6599831e6bf78afad77eb1b4e1f820f6a34139e))
+
+## [1.8.1-dev.1](https://github.com/revenge-mod/revenge-bundle/compare/v1.8.0...v1.8.1-dev.1) (2025-07-22)
+
+
+### Bug Fixes
+
+* **api/patcher:** assert delayCallback ([#196](https://github.com/revenge-mod/revenge-bundle/issues/196)) ([5bc8868](https://github.com/revenge-mod/revenge-bundle/commit/5bc886868def333812dfc2b8d3c90d51e7739852))
+
+# [1.8.0](https://github.com/revenge-mod/revenge-bundle/compare/v1.7.4...v1.8.0) (2025-07-21)
+
+
+### Bug Fixes
+
+* Restore original behavior broken by b92d2734b33d2f0e719c364ed5aaefd43c7ae457 ([ec2809f](https://github.com/revenge-mod/revenge-bundle/commit/ec2809fe4c835c84101a8b8525cfc3863d1bc4d8))
+* Restore original behavior broken for old architecture ([#194](https://github.com/revenge-mod/revenge-bundle/issues/194)) ([acb85ba](https://github.com/revenge-mod/revenge-bundle/commit/acb85bacbab8b661c797f3b1609e64f2c724382f))
+* support New Architecture ([b92d273](https://github.com/revenge-mod/revenge-bundle/commit/b92d2734b33d2f0e719c364ed5aaefd43c7ae457))
+* support versions with New Architecture ([#193](https://github.com/revenge-mod/revenge-bundle/issues/193)) ([1b96867](https://github.com/revenge-mod/revenge-bundle/commit/1b96867ac76e522616186e96120c940b9311d659))
+
+
+### Features
+
+* compile to bytecode ([18f21fe](https://github.com/revenge-mod/revenge-bundle/commit/18f21feaaea0a4330e2b098c549b2a516cc8d352))
+
+# [1.8.0-dev.2](https://github.com/revenge-mod/revenge-bundle/compare/v1.8.0-dev.1...v1.8.0-dev.2) (2025-07-21)
+
+
+### Bug Fixes
+
+* Restore original behavior broken by b92d2734b33d2f0e719c364ed5aaefd43c7ae457 ([ec2809f](https://github.com/revenge-mod/revenge-bundle/commit/ec2809fe4c835c84101a8b8525cfc3863d1bc4d8))
+* Restore original behavior broken for old architecture ([#194](https://github.com/revenge-mod/revenge-bundle/issues/194)) ([acb85ba](https://github.com/revenge-mod/revenge-bundle/commit/acb85bacbab8b661c797f3b1609e64f2c724382f))
+
+# [1.8.0-dev.1](https://github.com/revenge-mod/revenge-bundle/compare/v1.7.5-dev.1...v1.8.0-dev.1) (2025-07-21)
+
+
+### Features
+
+* compile to bytecode ([18f21fe](https://github.com/revenge-mod/revenge-bundle/commit/18f21feaaea0a4330e2b098c549b2a516cc8d352))
+
+# [1.8.0-dev.1](https://github.com/revenge-mod/revenge-bundle/compare/v1.7.5-dev.1...v1.8.0-dev.1) (2025-07-21)
+
+
+### Features
+
+* compile to bytecode ([18f21fe](https://github.com/revenge-mod/revenge-bundle/commit/18f21feaaea0a4330e2b098c549b2a516cc8d352))
+
+# [1.8.0-dev.1](https://github.com/revenge-mod/revenge-bundle/compare/v1.7.5-dev.1...v1.8.0-dev.1) (2025-07-21)
+
+
+### Features
+
+* compile to bytecode ([18f21fe](https://github.com/revenge-mod/revenge-bundle/commit/18f21feaaea0a4330e2b098c549b2a516cc8d352))
+
+# [1.8.0-dev.1](https://github.com/revenge-mod/revenge-bundle/compare/v1.7.5-dev.1...v1.8.0-dev.1) (2025-07-21)
+
+
+### Features
+
+* compile to bytecode ([18f21fe](https://github.com/revenge-mod/revenge-bundle/commit/18f21feaaea0a4330e2b098c549b2a516cc8d352))
+
+## [1.7.5-dev.1](https://github.com/revenge-mod/revenge-bundle/compare/v1.7.4...v1.7.5-dev.1) (2025-07-21)
+
+
+### Bug Fixes
+
+* support New Architecture ([b92d273](https://github.com/revenge-mod/revenge-bundle/commit/b92d2734b33d2f0e719c364ed5aaefd43c7ae457))
+* support versions with New Architecture ([#193](https://github.com/revenge-mod/revenge-bundle/issues/193)) ([1b96867](https://github.com/revenge-mod/revenge-bundle/commit/1b96867ac76e522616186e96120c940b9311d659))
+
 ## [1.7.4](https://github.com/revenge-mod/revenge-bundle/compare/v1.7.3...v1.7.4) (2025-05-19)
 
 
