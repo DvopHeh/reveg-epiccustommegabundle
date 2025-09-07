@@ -1,3 +1,20 @@
+# [1.1.0](https://github.com/DvopHeh/reveg-epiccustommegabundle/compare/v1.0.1...v1.1.0) (2025-09-07)
+
+
+### Bug Fixes
+
+* **api/patcher:** assert delayCallback ([#196](https://github.com/DvopHeh/reveg-epiccustommegabundle/issues/196)) ([5bc8868](https://github.com/DvopHeh/reveg-epiccustommegabundle/commit/5bc886868def333812dfc2b8d3c90d51e7739852))
+* make React DevTools work again ([d659983](https://github.com/DvopHeh/reveg-epiccustommegabundle/commit/d6599831e6bf78afad77eb1b4e1f820f6a34139e))
+* Restore original behavior broken by b92d2734b33d2f0e719c364ed5aaefd43c7ae457 ([ec2809f](https://github.com/DvopHeh/reveg-epiccustommegabundle/commit/ec2809fe4c835c84101a8b8525cfc3863d1bc4d8))
+* Restore original behavior broken for old architecture ([#194](https://github.com/DvopHeh/reveg-epiccustommegabundle/issues/194)) ([acb85ba](https://github.com/DvopHeh/reveg-epiccustommegabundle/commit/acb85bacbab8b661c797f3b1609e64f2c724382f))
+* support New Architecture ([b92d273](https://github.com/DvopHeh/reveg-epiccustommegabundle/commit/b92d2734b33d2f0e719c364ed5aaefd43c7ae457))
+* support versions with New Architecture ([#193](https://github.com/DvopHeh/reveg-epiccustommegabundle/issues/193)) ([1b96867](https://github.com/DvopHeh/reveg-epiccustommegabundle/commit/1b96867ac76e522616186e96120c940b9311d659))
+
+
+### Features
+
+* compile to bytecode ([18f21fe](https://github.com/DvopHeh/reveg-epiccustommegabundle/commit/18f21feaaea0a4330e2b098c549b2a516cc8d352))
+
 ## [1.0.1](https://github.com/DvopHeh/reveg-epiccustommegabundle/compare/v1.0.0...v1.0.1) (2025-07-20)
 
 
